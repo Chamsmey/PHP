@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;1,200&family=Roboto:wght@100;400&display=swap');
+
+*{
+    margin: 0;padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+body{
+    background: #0000;
+}
+
+form{
+    margin: auto;
+    padding: 20px;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+
+.result{
+    width: 50%; 
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;   
+
+}
+
+.head{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.head img{
+    width: 100px;
+}
+.body{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+}
+.para{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}

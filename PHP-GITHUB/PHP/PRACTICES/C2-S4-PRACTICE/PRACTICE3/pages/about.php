@@ -1,0 +1,4 @@
+<div class="container">
+    <h1>About Page</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores ducimus ex fugit necessitatibus esse doloribus? Sed aut alias corporis? Unde fugiat, ut nemo temporibus, ex aperiam inventore facere exercitationem, nihil expedita ullam molestias labore sapiente quidem facilis dicta odio. Quas molestias, quisquam voluptatum sint praesentium saepe cupiditate nulla expedita aliquid ratione dolores ab facere laboriosam ipsam nostrum libero odit? Dolore a possimus quia facere autem sed sunt quidem, recusandae repellat odio obcaecati earum quos ipsam nisi accusantium veniam minima tempora voluptatem. Vero, placeat, similique unde ipsa assumenda aliquid harum inventore necessitatibus porro atque sunt sapiente explicabo deleniti officiis quam a.</p>
+</div>

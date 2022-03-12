@@ -1,0 +1,12 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card {
+    width: 40%;
+    height: 300px;
+    padding: 10px;
+    background: red;
+}

@@ -1,0 +1,4 @@
+- what are the security issues in this website ?
+    => client can see password and protected content
+
+- how to correct using PHP

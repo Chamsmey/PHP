@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+
+form {
+  margin: 2rem;
+  padding: 1em;
+  background: rgb(255, 238, 139);
+  max-width: 70%;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  grid-gap: 16px;
+}
+
+input,
+textarea {
+  background: #fff;
+  border: 1px solid #9c9c9c;
+  padding: 0.7em;
+  margin-bottom: 0.5rem;
+}
+
+input:focus,
+textarea:focus {
+  outline: 3px solid gold;
+}
+
+button {
+  background: lightgrey;
+  padding: 0.7em;
+  width: 100%;
+  border: 0;
+}
+button:hover {
+  background: gold;
+}

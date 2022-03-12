@@ -1,0 +1,5 @@
+<div class="main-content">
+  <main>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum voluptatem tempora consequuntur perferendis quo at aspernatur. Accusamus ab natus vel ea saepe odio dicta reiciendis ipsa, consectetur maxime. Fuga magni distinctio cum nihil maiores? Quas exercitationem harum aliquam asperiores quia fuga quis consequatur quasi qui atque. Nam, commodi est illum vero saepe porro suscipit ex officia, incidunt ab, quasi libero veritatis labore cumque. Blanditiis quibusdam numquam aspernatur cupiditate tempore dolorem veritatis totam eligendi sit voluptatem. Deserunt aspernatur rerum sequi, earum ab eligendi, temporibus commodi unde vero reiciendis voluptas. Quidem tempora adipisci suscipit? Eveniet cumque animi natus ex. Error, sint totam.</p>
+  </main>
+</div>
